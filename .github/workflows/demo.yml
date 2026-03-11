@@ -13,4 +13,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Imprimir el mensaje
-        run: echo "El mensaje es: ${{ github.event.inputs.mensaje }}"
+        run: echo "El mensaje es ${{ github.event.inputs.mensaje }}"
