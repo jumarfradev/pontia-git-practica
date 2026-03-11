@@ -1,0 +1,1 @@
+Nombre: Juan Martínez Fraile, Fecha: 11/03/2026. El versionado de código es la forma de tener un histórico de versiones de un desarrollo de software que puedes utilizar de forma personal y/o colaborativa -
